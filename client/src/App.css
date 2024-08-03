@@ -1,0 +1,32 @@
+/* header */
+
+.active {
+  color: violet;
+}
+
+.navLink {
+  color: blue;
+  margin: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+.detail {
+  background-color: red;
+  margin-bottom: 10px;
+}
+/* .footer {
+  text-align: center;
+  background-color: #ccc;
+  height: 50px;
+  clear: both;
+} */
+
+.pr-detail {
+  margin: 120px;
+}
+
+.home {
+  margin: 100px;
+}
